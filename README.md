@@ -1,7 +1,6 @@
 # react-beshify
 
-Click [here](https://www.geeksforgeeks.org/){:target="_blank"} 
-to visit GeeksForGeeks website.
+Click [here](https://www.geeksforgeeks.org/) to visit Beshify website.
 
 
 ![Screenshot of the User Interface](https://github.com/lenor21/react-beshify/blob/main/Screen%20Shot%202023-09-18%20at%2010.26.38%20AM.png)
